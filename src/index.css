@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;700;800&family=Inter:wght@400;500;600;700&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+html, body, #root {
+  margin: 0;
+  padding: 0;
+  min-height: 100%;
+  background-color: #060A07;
+}
+
+body {
+  font-family: 'Inter', sans-serif;
+}
+
+.font-mono-x {
+  font-family: 'JetBrains Mono', monospace;
+}
+
+@keyframes fadeUp {
+  from { opacity: 0; transform: translateY(16px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+.fade-up {
+  animation: fadeUp 0.7s ease-out both;
+}
+@media (prefers-reduced-motion: reduce) {
+  .fade-up { animation: none; }
+}
+
+::-webkit-scrollbar { width: 8px; }
+::-webkit-scrollbar-track { background: #0A0F0C; }
+::-webkit-scrollbar-thumb { background: #1F7A3D; border-radius: 4px; }
