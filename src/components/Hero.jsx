@@ -63,7 +63,7 @@ export default function Hero() {
             </a>
             <a
               href="/certificates/CV_BIMA MUKTI WIBOWO_GENERAL.pdf"
-              download
+              target="_blank"
               className="inline-flex items-center gap-2 px-5 py-2.5 rounded-full border border-[#39FF14]/40 text-[#E8FCEF] font-mono-x text-sm hover:border-[#39FF14] transition-colors"
             >
               <Download size={16} /> Unduh CV
