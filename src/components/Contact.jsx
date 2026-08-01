@@ -16,7 +16,7 @@ export default function Contact() {
           <div className="text-[#7C948A] mb-4">$ ./contact.sh --send</div>
           <div className="space-y-3">
             <a
-              href={`mailto:${SITE.email}`}
+              href={`https://mail.google.com/mail/?view=cm&fs=1&to=${SITE.email}`}
               className="flex items-center gap-3 p-3 rounded hover:bg-[#39FF14]/8 transition-colors group"
             >
               <Mail size={18} className="text-[#39FF14]" />
