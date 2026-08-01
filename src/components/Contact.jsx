@@ -9,7 +9,7 @@ export default function Contact() {
         <div className="font-mono-x text-[#39FF14] text-sm mb-2">06 // contact.sh</div>
         <h2 className="font-mono-x text-3xl sm:text-4xl font-bold mb-4">Mari Berkolaborasi</h2>
         <p className="text-[#7C948A] mb-10">
-          Terima kasih telah mengunjungi portofolio saya. Saya terbuka untuk peluang kerja, kolaborasi, maupun diskusi seputar pengembangan web dan teknologi. Jangan ragu untuk menghubungi saya melalui kontak berikut.
+          Terbuka untuk peluang kerja, kolaborasi, dan diskusi seputar pengembangan web. Silakan hubungi saya melalui kontak berikut.
         </p>
 
         <div className="rounded-lg border border-[#39FF14]/20 bg-[#0D1410] p-6 sm:p-8 text-left font-mono-x text-sm">

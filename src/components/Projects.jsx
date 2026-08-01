@@ -22,7 +22,7 @@ export default function Projects() {
         <div className="font-mono-x text-[#39FF14] text-sm mb-2">04 // projects/</div>
         <div className="flex items-end justify-between mb-10 flex-wrap gap-4">
           <div>
-            <h2 className="font-mono-x text-2xl sm:text-3xl font-bold">Proyek Terpilih</h2>
+            <h2 className="font-mono-x text-2xl sm:text-3xl font-bold">Proyek</h2>
             <p className="text-[#7C948A] text-xs font-mono-x mt-1">geser dengan mouse atau jari untuk melihat lainnya</p>
           </div>
           <div className="flex gap-2">

@@ -31,12 +31,12 @@ export const NAV_ITEMS = [
 ];
 
 export const TYPE_STRING =
-  "const developer = {\n  name: 'Bima Mukti Wibowo',\n  role: 'Frontend Developer',\n  location: 'Surabaya, ID',\n  passion: 'menciptakan antarmuka yang responsif dan user-friendly\'\n};";
+  "const developer = {\n  name: 'Bima Mukti Wibowo',\n  role: 'Frontend Developer',\n  location: 'Surabaya, ID',\n  passion: 'membangun antarmuka yang responsif dan mudah digunakan\'\n};";
 
 export const ABOUT = {
   paragraphs: [
-    "Saya adalah lulusan Sistem Informasi Universitas Pembangunan Nasional Veteran Jawa Timur dengan pengalaman pada Frontend Development dan Cloud Computing.",
-    "Melalui pengalaman di Bangkit Academy dan Binar Academy, saya terus mengembangkan kemampuan teknis, berkolaborasi dalam tim, dan mengikuti perkembangan teknologi untuk menciptakan solusi digital yang bermanfaat.",
+    "Saya merupakan lulusan Sistem Informasi Universitas Pembangunan Nasional Veteran Jawa Timur dengan pengalaman pada Frontend Development dan Cloud Computing.",
+    "Melalui Bangkit Academy dan Binar Academy, saya terus mengembangkan kemampuan teknis untuk membangun solusi digital yang modern dan bermanfaat.",
   ],
   stats: [
     ["4+", "Proyek"],
